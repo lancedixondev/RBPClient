@@ -1,46 +1,13 @@
-# Getting Started with Create React App
+Buble Client side-
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Buble is a primitive social media that is revolved around mental health.
 
-## Available Scripts
+Politics, drama, etc, are not allowed in buble.  This is a place to reflect on your mental health and also connect with others who are doing the same.
 
-In the project directory, you can run:
+you can create an account, and start making daily tracking of your mental health and also reach out to the public for feedback on it.
 
-### `npm start`
+the blog section is completely private.  No one can see it.  it has 2 option feilds.  what your mood is, and talk about your day.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+once you have submited that it will save in the database for future reference.  you can go back and reflect on your mental health and how you've overcome your issues.  You can also compare your days to see if you need to work on yourself more.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+the posts/status zone is public.  anything put there will be readable by all members of Buble.  people can comment on your posts, and you can comment on other peopls posts.
